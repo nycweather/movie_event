@@ -1,8 +1,7 @@
 # CS355 Final Project (Fall 2023)
 
-### Code Requirements
-
-A successful project will have at minimum four phases in code execution:
+### Project Requirements
+Project will have at minimum four phases in code execution:
 
 1. When a end user visits the home page, your server send them a form to fill out.
 2. When a end user submits the form to your server, your server will then send the first API request out (using the captured data if necessary).
